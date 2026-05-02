@@ -32,7 +32,7 @@
   <a href="https://linkedin.com/in/prantik-das" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://facebook.com/prantikdas" target="_blank">
+  <a href="https://facebook.com/prantik.das.984919" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://instagram.com/yours_pranz" target="_blank">
